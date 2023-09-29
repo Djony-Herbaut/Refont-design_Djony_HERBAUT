@@ -1,5 +1,5 @@
 # Refonte web : développement 🚀
-![cover](./cover.PNG)
+![cover](./asset/cover.PNG)
 
 > ## Introduction :
 
