@@ -46,12 +46,9 @@
 
 
 Ces caractéristiques positives reflètent l'effort mis dans la réalisation de ce site web pour assurer une expérience utilisateur optimale, une accessibilité accrue, et une meilleure visibilité sur les moteurs de recherche malgré l'abscence du fichier de site web manifest et le fait que l'entête ne sois pas complète  
-(manque de la balise **meta view-port**, des balises "**link rel** pour les icons ou encore le la balise **meta http-equiv="X-UA-Compatible" content="IE=edge"** )  
+(manque de la balise **meta view-port**, des balises "**link rel** pour les icons ou encore le la balise **meta http-equiv="X-UA-Compatible" content="IE=edge"** ou encore le **langage** qu'il faut passer de en à fr. )  
 
->Plus globalement, on peut voir au sein du code HTML que l'identation n'est pas respecté mais aussi que les balises <**div**> sont utilisées parfois à outrance alors que des balises <**section**> seraient plus apréciées.
-
-
-
+>Plus globalement, on peut voir au sein du code HTML que l'identation n'est pas respecté mais aussi que les balises <**div**> sont utilisées parfois à outrance alors que des balises <**section**> seraient plus apréciées,que la Cover du markdown ne se trouvait pas dans asset ,que les balises <**form**> n'était pas présentes , qu'il manquait les "**alt** au sein des liens dans les balises <**a**>.
 
 
 ![AUR license](https://img.shields.io/aur/license/c)
