@@ -50,5 +50,8 @@ Ces caractéristiques positives reflètent l'effort mis dans la réalisation de 
 
 >Plus globalement, on peut voir au sein du code HTML que l'identation n'est pas respecté mais aussi que les balises <**div**> sont utilisées parfois à outrance alors que des balises <**section**> seraient plus apréciées,que la Cover du markdown ne se trouvait pas dans asset ,que les balises <**form**> n'était pas présentes , qu'il manquait les "**alt** au sein des liens dans les balises <**a**>.
 
+>Enfin, on modifie notre **screen.css** pour remplacer les pixels en unités rem avec une **font-size = 62,5%** et **font = 1.6rem sans-serif**
+Ainsi, on réalise toutes les conversions nécessaires.
+
 
 ![AUR license](https://img.shields.io/aur/license/c)
